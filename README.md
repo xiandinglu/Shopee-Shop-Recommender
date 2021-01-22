@@ -16,4 +16,4 @@ Steps:
 7. Sorting is allow in the table.
 
  - Shiny Apps: <<https://almasurinarshad.shinyapps.io/WQD7001PROJECT_SHOPPERECOMMENDER/>> <br>
- - Rpubs Link: <<https://rpubs.com/NabilahAK/PDS-Shopee_Shop_Recommender>> <br>
+ - Rpubs Link: <<https://rpubs.com/NabilahAK/WQD7001-Shopee_Shop_Recommender>> <br>
