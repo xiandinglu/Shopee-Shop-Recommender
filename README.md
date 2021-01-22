@@ -15,5 +15,5 @@ Steps:
 6. The ranking table also show the detail of the shop that available according to your filter.
 7. Sorting is allow in the table.
 
- - Shiny Apps: <<https://almasurinarshad.shinyapps.io/WQD7001_PROJECT_SHOPPERECOMMENDER/>> <br>
+ - Shiny Apps: <<https://almasurinarshad.shinyapps.io/WQD7001PROJECT_SHOPPERECOMMENDER/>> <br>
  - Rpubs Link: <<https://rpubs.com/NabilahAK/PDS-Shopee_Shop_Recommender>> <br>
