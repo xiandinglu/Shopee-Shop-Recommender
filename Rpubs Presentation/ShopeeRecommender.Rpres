@@ -1,0 +1,77 @@
+Shopee Shop Recommender
+========================================================
+css:css-file.css
+font-family: 'Times New Roman'
+transition: rotate
+
+## <p style="font-size:40px; color:#660000;">WQD7001 Principes of Data Science </p>
+
+<p style="font-size:26px; color:#660000;font-weight:bold;">S2001169 | Nabilah Binti Ahmad Kamal
+<br>17096993 | Lu Xian Ding 
+<br>17218788 | Dayang Almasurin
+<br>WQD170049| Nurul Qayyimah Binti Suhaimi</p>
+
+<p style="font-size:26px; color:#660000; ">App url: <a href="https://almasurinarshad.shinyapps.io/WQD7001_PROJECT_SHOPPERECOMMENDER/">Shopee Shop Recommender</a>
+<br>Source code: <a href="https://github.com/xiandinglu/Shopee-Shop-Recommender">Github Repository</a>
+</p>
+
+
+Problem Statement
+========================================================
+left: 60%
+font-family: 'Times New Roman'
+transition: rotate
+<p style="font-size:26px; color:#1a1a1a;">
+- E-commerce business is thriving over the years especially during this pandemic period. More sellers are joining the e-commerce platform such as Shopee.<br>
+<br>
+- Therefore, sometimes there are abundant of choices available for the same item from different sellers.<br>
+<br>
+- Shoppers might feel overwhelmed by the number of options they encountered when shopping online.<br>
+<br>
+- Shoppers end up spending long time researching for the best quality products often through reviews and ratings, resulting in information overload. This experience may lead shoppers to a state of indecision.</p>
+***
+
+![Data Science Process](my-lash.png)
+![Data Science Process](too_many_choices.png)
+
+The data science process
+========================================================
+font-family: 'Times New Roman'
+
+![Data Science Process](Methodology_all.png)
+
+About the App: Shopee Recommender
+========================================================
+font-family: 'Times New Roman'
+
+<p style="font-size:30px;">App url:<a href="https://almasurinarshad.shinyapps.io/WQD7001_PROJECT_SHOPPERECOMMENDER/">Shopee Shop Recommender</a></p>
+
+<p style="font-size:30px; color:#1a1a1a;">-Provide overview comparison between stores<br>
+-Provide insights specific to particular shop</p>
+<p style="font-size:30px; color:#1a1a1a; font-weight:bold;">Saving shopper time-spent on reviewing items and help them make faster, bolder buying decisions. </p>
+
+<left><img src="Overall_app.png" height="300px" width="800px" /></left>
+***
+<right><img src="App_samyang1.png" height="200px" width="800px" /></right>
+
+
+
+Reflection
+========================================================
+font-family: 'Times New Roman'
+
+Limitations: Chicken & Egg problem 
+--------------------------------------------------------
+Recommendations are based on customers' feedback and rating.
+
+Biasness:
+--------------------------------------------------------
+New shop has less chances to get recommendation because suggestion are made based on input such as total unit sales, number of reviews and rating tags.
+
+Future Improvements:
+--------------------------------------------------------
+-Scrape real-time data for a more accurate suggestion<br>
+-Develop a neutral algo that rate based on reviews and buyer tags without the influence of number of items sold.
+
+
+
