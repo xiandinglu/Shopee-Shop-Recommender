@@ -1,11 +1,12 @@
 # Shopee Shop Recommender
 
-###Group O
-###1. Nabilah Binti Ahmad Kamal (S2001169)
-###2. Lu Xian Ding (17096993)
-###3. Dayang Almasurin (17218788)
-###4. Nurul Qayyimah Binti Suhaimi (WQD170049)
+Principal of Data Science (Group O)
+1. Nabilah Binti Ahmad Kamal (S2001169)
+2. Lu Xian Ding (17096993)
+3. Dayang Almasurin (17218788)
+4. Nurul Qayyimah Binti Suhaimi (WQD170049)
 
+Steps:
 1. Open the apps.
 2. Pick your keywords to look for in the selection box. 
 3. You also can narrow down the recommendation by using products categories selection and price.
